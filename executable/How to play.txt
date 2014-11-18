@@ -1,0 +1,4 @@
+w-a-d are the keys for the left player
+ý-j-l are the keys for the right player
+
+works well with greater or equal resolution 1280x720.
